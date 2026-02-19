@@ -3,7 +3,7 @@ name: Submodule Updated
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   notify:
