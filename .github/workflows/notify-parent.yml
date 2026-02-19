@@ -1,0 +1,12 @@
+name: Submodule Updated
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Submodule updated"
