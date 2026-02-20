@@ -7,9 +7,7 @@ languages:
   python:
     entryPoint: "two_sum"
     starterCodeId: "python/two-sum"
-  java:
-    entryPoint: "twoSum"
-    starterCodeId: "java/two-sum"
+
 
 ---
 # Problem Description
