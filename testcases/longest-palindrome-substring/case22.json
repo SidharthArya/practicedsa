@@ -1,0 +1,6 @@
+{
+    "input": {
+        "s": "thisisanexamplewithlongestpalindromeonyxdxyxdx"
+    },
+    "expected": "xdxyxdx"
+}

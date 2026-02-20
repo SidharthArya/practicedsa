@@ -1,0 +1,6 @@
+{
+    "input": {
+        "s": "rotor1234321rotor"
+    },
+    "expected": "rotor1234321rotor"
+}

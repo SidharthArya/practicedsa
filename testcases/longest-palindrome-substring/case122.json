@@ -1,0 +1,6 @@
+{
+    "input": {
+        "s": "mississippi"
+    },
+    "expected": "ississi"
+}

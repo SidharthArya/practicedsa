@@ -1,0 +1,6 @@
+{
+    "input": {
+        "s": "levelmadammadam"
+    },
+    "expected": "madammadam"
+}

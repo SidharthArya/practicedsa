@@ -1,0 +1,6 @@
+{
+    "input": {
+        "s": "madamintanimadaminabba"
+    },
+    "expected": "animadamina"
+}

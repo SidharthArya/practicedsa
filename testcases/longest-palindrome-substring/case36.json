@@ -1,0 +1,6 @@
+{
+    "input": {
+        "s": "abcbaekayakecivic"
+    },
+    "expected": "ekayake"
+}

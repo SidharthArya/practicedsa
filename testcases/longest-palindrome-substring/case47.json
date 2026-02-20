@@ -1,0 +1,6 @@
+{
+    "input": {
+        "s": "madamracecarlevel"
+    },
+    "expected": "racecar"
+}

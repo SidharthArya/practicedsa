@@ -1,0 +1,6 @@
+{
+    "input": {
+        "s": "deifiedrotorlevel"
+    },
+    "expected": "deified"
+}

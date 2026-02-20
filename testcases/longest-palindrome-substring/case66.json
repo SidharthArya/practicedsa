@@ -1,0 +1,6 @@
+{
+    "input": {
+        "s": "civicracecar"
+    },
+    "expected": "racecar"
+}

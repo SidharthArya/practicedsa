@@ -1,0 +1,6 @@
+{
+    "input": {
+        "s": "zxyaxzyaz"
+    },
+    "expected": "z"
+}
